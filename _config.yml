@@ -102,12 +102,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mangolo el Polo"
-  avatar           : https://static.wikia.nocookie.net/disney/images/f/f1/Chewbacca.png/revision/latest/scale-to-width-down/565?cb=20180523235148&path-prefix=es
-  bio              : "Soy una persona **corriente**."
-  location         : "Buenavista del Norte"
-  email            : mongaro@mongaro.com
-  links: www.mongaro.com,
+  name             : "MangoloelPolo"
+  avatar           : 
+  bio              : ""
+  location         : "B"
+  email            : 
+  links:,
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
