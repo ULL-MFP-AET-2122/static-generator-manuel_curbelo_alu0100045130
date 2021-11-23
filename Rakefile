@@ -1,5 +1,5 @@
 task :default => :deploy do
-  sh "git add .; git commit -am new-version; git push -u origin master"
+  sh "git add .; git commit -am new-version; git push -u origin master2"
   end
   
   task :serve do
