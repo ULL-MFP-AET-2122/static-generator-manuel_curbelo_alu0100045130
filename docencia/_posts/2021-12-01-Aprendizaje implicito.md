@@ -1,0 +1,2 @@
+**El aprendizaje implícito hace referencia a un tipo de aprendizaje que se constituye en un aprendizaje generalmente no-intencional** y donde el aprendiz no es consciente sobre qué se aprende.
+El resultado de este aprendizaje es la ejecución automática de una conducta motora. Lo cierto es que muchas de las cosas que aprendemos ocurren sin darnos cuenta, Por ejemplo, hablar o caminar. El aprendizaje implícito fue el primero en existir y fue clave para nuestra supervivencia. Siempre estamos aprendiendo sin darnos cuenta.

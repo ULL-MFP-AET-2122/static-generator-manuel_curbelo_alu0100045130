@@ -1,0 +1,2 @@
+**El aprendizaje explícito se caracteriza porque el aprendiz tiene intención de aprender y es consciente de qué aprende.**
+Por ejemplo, este tipo de aprendizaje nos permite adquirir información sobre personas, lugares y objetos. Es por eso que esta forma de aprender exige de atención sostenida y selectiva del área más evolucionada de nuestro cerebro, es decir, requiere la activación de los lóbulos prefrontales.
