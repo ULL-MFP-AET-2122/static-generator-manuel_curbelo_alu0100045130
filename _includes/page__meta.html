@@ -21,9 +21,9 @@
         {% if words < words_per_minute %}
           {{ site.data.ui-text[site.locale].less_than | default: "menos de" }} 1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
         {% elsif words == words_per_minute %}
-          1 {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+          1 {{ site.data.ui-text[site.locale].minute_read | default: "minuto de lectura" }}
         {% else %}
-          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
+          {{ words | divided_by: words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minuto de lectura" }}
         {% endif %}
       </span>
     {% endif %}
